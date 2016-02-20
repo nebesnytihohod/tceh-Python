@@ -1,0 +1,5 @@
+{
+	"maxAttempt": 10,
+	"maxAttemptAnswer": 3,
+	"maxRepeatCircle": 3
+}

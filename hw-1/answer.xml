@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!-- file answer.xml -->
+<answer>
+    <questionnumber id="1">
+        <rightanswer>номер правильного ответа</rightanswer>
+    </questionnumber>
+    <questionnumber id="2">
+        <rightanswer>номер правильного ответа</rightanswer>
+    </questionnumber>
+    <questionnumber id="3">
+        <rightanswer>номер правильного ответа</rightanswer>
+    </questionnumber>
+    <questionnumber id="4">
+        <rightanswer>номер правильного ответа</rightanswer>
+    </questionnumber>
+    <questionnumber id="5">
+        <rightanswer>номер правильного ответа</rightanswer>
+    </questionnumber>
+</answer>

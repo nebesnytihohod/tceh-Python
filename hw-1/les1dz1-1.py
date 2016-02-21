@@ -27,9 +27,6 @@ except OSError:    # если нет файла настроек, то уста�
     print("Количество попыток - " + str(maxAttempt))
 else:
     configuration = json.load(f)    # парсинг файла настроек
-    #maxAttempt = configuration['maxAttempt']    # макс количество попыток выбора ветви исполнения
-    #maxAttemptAnswer = configuration['maxAttemptAnswer']    # макс количество попыток правильного ответа
-    #maxRepeatCircle = configuration['maxRepeatCircle']    # макс число циклов
 finally:
     f.close()
 
